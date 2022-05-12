@@ -3,6 +3,6 @@ public class jeet{
 public static void main(String [] args)
 {
 
-System.out.println("Welcome to Meeting");
+System.out.println("Welcome to Group S");
 }
 }
